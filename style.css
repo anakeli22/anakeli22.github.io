@@ -66,3 +66,22 @@ nav a {
   .produtos-descricao {
     font-size: 18px;
   }
+
+  . produtos-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  footer{
+    text-align: center;
+    background: url();
+    padding: 50px 0;
+  }
+
+  . copyright{
+    color: blanchedalmond;
+    font-size: 13px;
+    margin: 20px 0 0;
+  }
+  
